@@ -10,3 +10,5 @@ Primeiro projeto a ser criado em sala de aula
 	- Repositorio criado para video aula explicando como funciona o git 
 
 bons estudos
+
+*Prof. Renato Gobet Uzun*
